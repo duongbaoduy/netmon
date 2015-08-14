@@ -4,4 +4,4 @@ Internet status monitoring tool. Conmon monitors your connection for given time 
 
 ##--Usage--
 
-python conmon.py -t <time> -i <interval> [-d]
+python conmon.py -t TIME -i INTERVAL [-d]
