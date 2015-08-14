@@ -12,4 +12,6 @@ python conmon.py -t TIME -i INTERVAL [-d]
 
 -d Test if only dns fails(optional)
 
+Time and interval is given in minutes.
+
 Todo: Finish Windows compatibility and multiprocessing.
